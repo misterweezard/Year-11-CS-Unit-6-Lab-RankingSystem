@@ -1,4 +1,4 @@
-# Year-11-CS-Unit-6-Lab-RankingSystem
+# Year-11-CS-Unit-6-Lab-User
 
 Your job is to create one class called User.
 You should pass all of the tests in the UserTester class (provided).
